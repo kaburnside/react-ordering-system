@@ -1,0 +1,17 @@
+.app-container {
+  display: flex;
+}
+.active-orders {
+  width: 100%;
+}
+.order-form {
+  width: 100%;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: 40%;
+}
+.seperator {
+  border-left: 1.5px solid #e8eaed;
+  height: 100vh;
+  margin: 0 10px;
+}

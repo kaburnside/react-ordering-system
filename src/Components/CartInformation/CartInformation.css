@@ -1,0 +1,11 @@
+.total-price-container {
+  display: flex;
+  width: 100%;
+  margin: 10px 0;
+}
+.total-price-container > span {
+  font-size: 20px;
+}
+.total-cost-title {
+  margin-left: auto;
+}
